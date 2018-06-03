@@ -1,0 +1,9 @@
+node_modules/*
+dist/*
+.DS_Store
+coverage
+.next/*
+.next-server/*
+.env
+.vscode/*
+storybook-build/*
